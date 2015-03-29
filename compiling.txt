@@ -1,0 +1,1 @@
+gcc -Wall -o open_encrypt open_encrypt.c -lssl -lcrypto
