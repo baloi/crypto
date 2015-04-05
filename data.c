@@ -1,4 +1,3 @@
-Q
 #define MAX_LAST        50
 #define MAX_FIRST       50
 #define MAX_RECORDS     5012
