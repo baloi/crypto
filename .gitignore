@@ -1,3 +1,4 @@
 open_encrypt
 *.o
 *.swp
+raw/gost
